@@ -1,0 +1,11 @@
+<div class="cocktail">
+  <div *ngFor="let product of products" class="card" style="width: 18rem;">
+    <img [src]="product.avatar" class="card-img-top" alt="cocktail photo">
+    <div class="card-body">
+      <h6>{{product.id}}</h6>
+      <h5 class="card-title">{{product.title}}</h5>
+      <p class="card-text">{{product.description}}</p>
+      <a [routerLink]="['/products', product.id]" class="btn btn-dark">Details</a>
+    </div>
+  </div>
+</div>

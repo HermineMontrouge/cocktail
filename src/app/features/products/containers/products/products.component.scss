@@ -1,0 +1,18 @@
+.cocktail {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #fffdf7;
+}
+
+.card {
+  margin: 30px;
+  background-color: #f5f0eb;
+}
+
+img {
+  width: 287px;
+  height: 200px;
+  background-size: cover;
+}

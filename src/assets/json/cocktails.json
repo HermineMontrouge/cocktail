@@ -1,0 +1,57 @@
+[{
+    "id": 1,
+    "avatar": "./assets/pictures/cocktail1.jpg",
+    "title": "Rob Roy",
+    "description": "Ce cocktail rend hommage au héros écossais, Robert Roy MacGregor, surnommé Rob Roy.",
+    "ingredients": "5 cl de whisky scotch Ballantine's, 1.5 cl de vermouth blanc (ou martini blanc), 4 traits d’Angostura bitters"
+  },
+  {
+    "id": 2,
+    "avatar": "./assets/pictures/cocktail2.jpg",
+    "title": "Ginger Ale",
+    "description": "Cocktail à base de Whiskey Teeling et au Ginger Ale, une valeur sûre en Irlande.",
+    "ingredients": "45 ml de Whiskey Teeling Small Batch, 200 ml de Ginger Ale Franklin & Sons, 15 ml de jus de citron, pour la décoration: un citron."
+  },
+  {
+    "id": 3,
+    "avatar": "./assets/pictures/cocktail3.jpg",
+    "title": "Wapplesky",
+    "description": "Comme son nom l'indique, c'est un whisky à la pomme. Les mots \"apple\" et \"whisky\" combinés forment le Wapplesky.",
+    "ingredients": "5 cl de whisky écossais, 2.5 cl de jus de pomme, 1.5 cl de sirop de miel, 2 traits d’Angostura Orange Bitters"
+  },
+  {
+    "id": 4,
+    "avatar": "./assets/pictures/cocktail4.jpg",
+    "title": "The Irish Gold",
+    "description": "L’Irish Gold combine du whiskey irlandais avec de l’orange, de la pêche et de la ginger beer.",
+    "ingredients": "60 ml de whiskey Paddy, 15 ml de Schnaps à la pêche, 1 splash de jus d’orange, 15 ml de ginger beer Franklin & Sons"
+  },
+  {
+    "id": 5,
+    "avatar": "./assets/pictures/cocktail5.jpg",
+    "title": "Nikka Manhattan",
+    "description": "Ce cocktail a reçu le prix du \"Meilleur Cocktail\" lors du salon Cocktails Spirits à Paris en 2013.",
+    "ingredients": "6 cl de whisky Nikka Coffey Grain, 1.5 cl de vermouth sec, 1.5 cl de vermouth rouge, 1 trait d’Angostura bitters, Glace"
+  },
+  {
+    "id": 6,
+    "avatar": "./assets/pictures/cocktail6.jpg",
+    "title": "Elevenses",
+    "description": "Ce cocktail a été créé par Jane Maher, l’ambassadrice de la marque Tullamore D.E.W. pour un break de fin de matinée et se consomme avec du thé et de la confiture.",
+    "ingredients": "60 ml whiskey Tullamore, 2 cuillerées de confiture de framboises, 20 ml jus de citron, 50 ml de thé Irish breakfast"
+  },
+  {
+    "id": 7,
+    "avatar": "./assets/pictures/cocktail7.jpg",
+    "title": "Lynchburg Lemonade",
+    "description": "C’est un hommage à la distillerie historique Jack Daniel’s de Lynchburg dans le Tennessee.",
+    "ingredients": "4 cl de whisky Jack Daniel’s, 2 cl de triple sec, 1 cl de jus de citron frais, 1 cl de sirop de sucre de canne, Limonade"
+  },
+  {
+    "id": 8,
+    "avatar": "./assets/pictures/cocktail8.jpg",
+    "title": "Dubliner",
+    "description": "Ce cocktail est adapté de la recette originale de Gary & Mardee Regan (experts en cocktails) créée en 1999, à New York.",
+    "ingredients": "60 ml de Jameson Irish Whiskey, 15 ml de Grand Marnier, 15 ml de Vermouth rouge et 2 traits d’orange bitters (ou Angostura)."
+  }
+]
